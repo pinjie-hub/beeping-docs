@@ -1,6 +1,6 @@
 # Project information
-site_name: Beeping Documentation
-site_description: Beeping Technology Documentation
+site_name: Beeping Documentation - Beeping
+site_description: The landing page for Beeping documentation.
 site_author: Beeping LLC
 site_url: https://beeping.io
 
@@ -49,7 +49,8 @@ markdown_extensions:
 # Configuration
 theme:
   name: material
-  theme_dir: 'theme/material'
+  theme_dir: theme/material
+  favicon: assets/images/favicon.ico
 
 # Copyright
 copyright: 'Apache License, Version 2.0'
